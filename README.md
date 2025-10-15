@@ -9,3 +9,7 @@ Tracking my work in public for the [Machine Learning Zoomcamp 2025](https://cour
 ## Week 2
 
 [homework](week-2.ipynb)
+
+## Week 3
+
+[homework](week-3.ipynb)
